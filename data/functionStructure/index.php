@@ -50,10 +50,5 @@
             echo staticScope();
         ?>
     </p>
-    <p>
-        <?php
-
-        ?>
-    </p>
 </body>
 </html>
